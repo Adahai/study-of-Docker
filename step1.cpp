@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout << "正在进行第一步..." << endl;
+	cout << "step1 is running ..." << endl;
 	return 0;
 }
